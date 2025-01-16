@@ -9,6 +9,10 @@ and this project adheres to
 
 ## [Unreleased]
 
+## Added
+
+- ✨(backend) add prometheus metrics and probe endpoints #455
+
 ## [2.0.0] - 2025-01-13
 
 ## Added
